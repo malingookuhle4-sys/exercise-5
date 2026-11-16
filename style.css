@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    backgroubd-color:
+}
+
+navibar {
+    position: : fixed;
+    top: 0;
+    left: 0;
+    width: 0;
+    width: 100%;
+    background-color: 
+    padding: 15px;
+    display: flex;
+    justify-context: space-evenly
+    box-sizing: border-box;
+    z-index: 1000;
+}
+
+.navbar a {
+    color: white;
+    textt-decoration: none;
+    font-weight: bold;
+}
+
+.container {
+    max-width: 800px;
+    margin: 80px auto 20px auto;
+    padding: 20px;
+    background-color: ;
+    border-radius: 5px;
+
+}
+
+h1 {
+    color:  
+    font-size: 24px;
+    text-align: center;
+}
+
+h2 {
+    color:  
+    font-size: 20px;
+}
+
+a {
+    color:
+    text-decoration: underline;
+
+}
+p {
+    line-height:1.6;
+    margin-bottom: 15px;
+}
